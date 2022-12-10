@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Ini Judul Ubah</title>
+  </head>
+  <body>
+    <p>Ini Paragraf</p>
+    <b>Ini Tebal</b>
+    <br />
+    <u>Ini Garis Bawah</u>
+    <hr />
+    <i>Ini Miring</i>
+    <h1>Heading 1</h1>
+    <h2>Sub Judul</h2>
+    <h3>Cucu</h3>
+    <h4>Cicit</h4>
+    <h5>Heasding</h5>
+    <h6>Hennnnn</h6>
+    <ol type="1" start="5" reversed>
+      <li>Tidur</li>
+      <li>Baring</li>
+      <li>Rebahan</li>
+    </ol>
+    <ul style="list-style: square">
+      <li>Ngoding</li>
+      <li>Healing</li>
+      <li>Sinting</li>
+      <li>Ta'tiling</li>
+    </ul>
+    <a href="https://www.instagram.com/ti.22_fst" target="_blank">IG na adudu</a>
+    <a href="baru.html">Baru</a>
+    <img src="download.jpg" alt="Gambar Error" title="Gambar Latar" height="100px">
+    <!-- height panjang -->
+    <!-- width lebar -->
+    <br> <br> <br>
+    <table border="1" cellpadding="10" cellspacing="20">
+      <tr>
+        <th>No</th>
+        <th>Nama</th>
+        <th>NIM</th>
+      </tr>
+      <tr>
+        <td>1</td>
+        <td>Ummul</td>
+        <td>60200122122</td>
+      </tr>
+      <tr>
+        <td>2</td>
+        <td>Reres</td>
+        <td>60200122076</td>
+      </tr>
+    </table>
+  </body>
+</html>
